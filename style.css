@@ -4,7 +4,7 @@ body{
 }
 .container-1{
     background-color: white;
-    margin: 3%;
+    margin: 3%;  
 }
 .container-1 span{
     color: #0e9480;
@@ -71,8 +71,8 @@ p{
 }
 .contact-button{
     margin-left: 7%;
-    height: 58px;
-    width: 150px;
+    height: 70px;
+    width: 156px;
     font-size: 20px;
     border-radius: 20px;
     background-color: #2ca794;
@@ -84,12 +84,18 @@ p{
 
 .project-button{
     margin-left: 2%;
-    height: 60px;
-    width: 120px;
+    height: 90px;
+    width: 200px;
     border: none;
-    border-radius: 20px;
-    font-size: 16px;
+    background-color: white;
+    border-radius: 30px;
+    font-size: 15px;
+    padding-left: 4.5%;
     box-shadow: 15px 15px 20px rgb(151, 150, 150);
+}
+.project{
+    margin-left: 18.5%;
+    margin-top: -4.6%;
 }
 .image-1{
     margin-left: 65%;
@@ -126,7 +132,7 @@ p{
     box-shadow: 2px 2px  gray;
 }
 .row-3{
-    margin-left: 59.2%;
+    margin-left: 59.1%;
     margin-top: -10.7%;
     font-weight: lighter;
     background-color: white;
@@ -186,17 +192,17 @@ p{
 }
 .box-1{
     margin-left: 14%;
-    background-color: azure;
+    background-color: #f5f9ff;
     padding-left: 3%;
     margin-top: 20%;
 }
 .box-2{
-    background-color: rgb(100, 131, 100);
+    background-color: #2aa792;
     padding-left: 3%;
     margin-top: 20%;
 }
 .market{
-    background-color: azure;
+    background-color: #eaf6ff;
     padding-left: 3%;
     margin-top: 20%;
 }
@@ -251,6 +257,7 @@ p{
     background: #0e9480; 
     color: white; 
     font-size: 25px;
+
 }
 .span1{
     padding: 16px;
@@ -272,7 +279,7 @@ p{
 }
 .text-zero{
     color: black;
-    font-size: 18px;
+    font-size: 22px;
     margin-left: 50%;
     background-color: white;
     height: 50px;
@@ -285,7 +292,7 @@ p{
 }
 .text-two{
     color: black;
-    font-size: 18px;
+    font-size: 22px;
     margin-left: 50%;
     height: 45px;
     width: 20%;
@@ -295,7 +302,7 @@ p{
 }
 .text-three{
     color: black;
-    font-size: 18px;
+    font-size: 22px;
     margin-left: 50%;
     height: 45px;
     width: 20%;
@@ -317,8 +324,15 @@ p{
     background-color: white;
     height: 300px;
     margin: 2% 2% 2% 2%;
-
     height: 500px;
+    background-image: url(six.png);
+    background-repeat: no-repeat;
+    background-size: 350px;
+   
+}
+.six{
+    margin-left: 87%;
+    margin-top: -15%;
 }
 .text-one{
     color: black;
@@ -329,36 +343,41 @@ p{
 .text-four{
     color: black;
     margin-left: 33%;
-    font-size: 20px;
+    font-size: 25px;
+    margin-top: -20px;
 }
+
+
 .email{
-    width: 600px;
-    height: 65px;
-    color: white;
     margin-left: 30%;
-    border: none;
-    border-radius: 10px;
-    background-color: #2ca794;
-}
-.email-1{
     color: white;
-    padding-top: 3%;
+    margin-top: -8%;
+   
 }
-.subscribe{
-    width: 200px;
-    height: 50px;
-    margin-left: 51.9%;
-    margin-top: -3.5%;
-    border-radius: 10px;
-    color: white;
-    background-color: rgb(99, 99, 211);
-    font-size: 18px;
+.email input{
+    background-color: #0e9480;
+    height: 90px;
+    width: 50%;
+    font-size: 25px;
     border: none;
+    border-radius: 20px;
+    color: white;
+
 }
+
 .subscribe-1{
     color: white;
-    padding-top: 3%;
+    /* padding-top: 3%; */
+    background-color: #645eff;
+    width: 150px;
+    height: 70px;
+    border: none;
+    font-size: 24px;
+    border-radius: 15px;
+    margin-left: -164px;
+    margin-top: -60px;
 }
+
 .container-7{
     background-color: white;
     margin: 2%;
@@ -425,6 +444,10 @@ p{
      color: black;
      font-size: 45px;
 }
+.blue{
+    margin-top: -5%;
+}
+
 
 
 
